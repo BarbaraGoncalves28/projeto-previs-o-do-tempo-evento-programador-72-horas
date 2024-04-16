@@ -4,3 +4,6 @@
 <strong>- HTML <br>
 - CSS <br>
 - JavaScript</strong>
+<br>
+<br>
+<img src="https://github.com/BarbaraGoncalves28/projeto-previs-o-do-tempo-evento-programador-72-horas/blob/main/img/previsao-do-tempo.png?raw=true"/>
